@@ -3,6 +3,8 @@ title: "Ijes Website"
 author: "Ijeoma Nwokolo"
 date: "04/11/2018"
 output: html_document
+
+theme: spacelab
 ---
 
 ```{r setup, include=FALSE}
